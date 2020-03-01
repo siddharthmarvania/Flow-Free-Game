@@ -48,6 +48,12 @@ An IDE or similar environment with Java Swing and Applet support.
 Run the file of path 'src/game/Game.java'
 and the game can be played.
 
+## 6. Add Level
+
+You can also add your your custom level. Following is the format of adding levels:
+1. Go to the level folder and add in format the "dot"+"number_of_level"+".txt"
+2. Now in this txt file first line mentions that how many dots you want.
+3. If you want n colored dots, then next 2*n lines specify the position of the in form of cell_number of  matrix.
 
 
 
